@@ -8,6 +8,14 @@ Credits:
 https://registry.terraform.io/providers/aliyun/alicloud/latest/docs
 https://wi1dcard.dev/posts/terraform-quick-start-with-alibaba-cloud/
 
+## Execution
+```
+   terraform init
+   terraform plan
+   terraform apply
+```
+
+
 
 `Learning Resources for DevOps, SRE, Cloud & Engineering Management`
 

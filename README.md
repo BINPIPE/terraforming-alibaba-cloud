@@ -1,4 +1,13 @@
-# Learning Resources
+# Terraforming Alibaba Cloud
+
+Terraform has a bunch of great integrations with cloud platforms, some of them are maintained by Terraform official, such as Azure provider and AWS provider. However, Alibaba Cloud (which is the biggest public cloud company in China mainland) provider is created and maintained by alibaba itself so far. Lack of quick start guide and documentation makes it a little bit hard to get started with.
+
+Video Link: https://youtu.be/b4RYfvhQNC0
+
+Credits:
+https://registry.terraform.io/providers/aliyun/alicloud/latest/docs
+https://wi1dcard.dev/posts/terraform-quick-start-with-alibaba-cloud/
+
 
 `Learning Resources for DevOps, SRE, Cloud & Engineering Management`
 
